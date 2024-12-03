@@ -137,7 +137,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](<Screenshot (53).png>)
+![Screenshot (53)](https://github.com/user-attachments/assets/9777f52d-b231-4645-9cf1-e4ad911ff822)
+
 
 
 ## RESULT:
